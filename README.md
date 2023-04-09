@@ -2,7 +2,7 @@
 
 <div align="center">
   <br />
-  <img src="./assets/sea.png" alt="FootBall Well known" />
+  <img src="./assets/logo.png" alt="FootBall Well known" />
   <br />
   <h1>서비스 개요</h1>
   <br />
