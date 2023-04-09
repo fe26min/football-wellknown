@@ -125,16 +125,11 @@
 
 - 
 
-
-
 ### 마이페이지
 
 - 
 
-
-
 ### 게시글 쓰기
-
 - 
 
 | 마이페이지                      |
@@ -147,13 +142,23 @@
 
 ### 팀 정보 페이지
 
+-
 
 ### 선수 정보 페이지
 
+-
+
+## 성능 개선
+
+###  Jmeter 결과
+[Jmeter Test](./assets/test.png)
+
+### MySQL vs MongoDB
+[MySQL vs MongoDB](./assets/mongoTest.png)
 
 <div id="5"></div>
 
-## 🎥 [UCC 보러가기](./assets/자율PJT_서울_2반_A203_UCC경진대회)
+## 🎥 [UCC 보러가기](./assets/자율PJT_서울_2반_A203_UCC경진대회.MP4)
 
 <br />
 
