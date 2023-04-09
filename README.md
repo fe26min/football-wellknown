@@ -151,10 +151,10 @@
 ## 성능 개선
 
 ###  Jmeter 결과
-[Jmeter Test](./assets/test.png)
+ ![image](./assets/test.png)
 
 ### MySQL vs MongoDB
-[MySQL vs MongoDB](./assets/mongoTest.png)
+ ![image](./assets/mongoTest.png)
 
 <div id="5"></div>
 
